@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(189, 189, 53);
+    border:  solid black 2px;
+    
+
+}
+.card{
+    margin: 10px 500px;
+   
+}
+.card-body{
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px;
+}
+.card-subtitle{
+    font-size: 18px;
+    color: crimson;
+}
+.card-title{
+    font-size: 20px;
+    color: rgb(121, 23, 23);
+}
+.card-text{
+    color:rgb(113, 4, 4)
+}
